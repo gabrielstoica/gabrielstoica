@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Gabriel Stoica 👋
 
-<!--
-**gabrielstoica/gabrielstoica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Smart Contract/Blockchain Software Engineer with experience in designing and developing smart contracts and decentralized applications. I'm passionate about exploring the potential of blockchain technology and contributing to the growth of the Web3 ecosystem.
 
-Here are some ideas to get you started:
+## Find me 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/gabriel-stoica-26420a75/)
+[![Blog Badge](https://img.shields.io/badge/-yourblog.com-orange?style=flat-square&logo=Bloglovin&logoColor=white&link=https://www.yourblog.com/)](https://www.gabrielstoica.com/)
+[![Medium Badge](https://img.shields.io/badge/-@yourusername-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@yourusername)](https://medium.com/@gabriel.stoica)
+
+## Github Stats 📈
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielstoica&show_icons=true&theme=gruvbox&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
